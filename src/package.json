@@ -1,0 +1,11 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "Pandas",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "flask": "0.2.10",
+    "pandas": "0.0.3"
+  }
+}
